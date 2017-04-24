@@ -1,0 +1,6 @@
+Hasan
+Ayse,Hasan,ebu-Ayse
+Ali,Ayse,ibn-Hasan
+Sema,Hasan,ebu-Ayse
+Murat,Hasan,ebu-Ayse
+Tarik,Ayse,ibn-Hasan
